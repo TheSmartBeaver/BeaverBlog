@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/Users/thesmartbeaver/Documents/Informatique/next-markdown-blog-main/out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
