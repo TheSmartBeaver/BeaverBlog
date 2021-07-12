@@ -2,8 +2,11 @@ import Header from "../components/Header"
 import "../styles/globals.css"
 import { useEffect } from "react"
 import { analytics } from "../utils/firebase"
+import { useRouter } from "next/router"
 
 function MyApp({ Component, pageProps }) {
+  const routers = useRouter()
+
   useEffect(() => {
     if (process.env.NODE_ENV === "production") {
       analytics()
