@@ -7,7 +7,9 @@ cover_image: "/images/posts/risi-esclave.png"
 
 Il faut devenir indépendant par tous les moyens. Pour ça il faut éliminer toutes les habitudes néfastes et commencer par organiser ta journée en mieux. Le matin tu fais les tâches les plus difficiles intellectuellement et l'aprem les tâches sollicitant moins ta matière grise.
 
-En plus de tes obligations de travail si t'es un esclave au salariat, il faut que tu fasses un travail à côté pour obtenir l'indépendance (livre, e-commerce, blog, applis, affliation, trading, musique, arts, etc). Voici le planning à adapter en fonction de ton statut et viens pas dire que c'est impossible car sinon je vais sonner à ta porte et te gifler.
+En plus de tes obligations de travail si t'es un esclave au salariat, il faut que tu fasses un travail à côté pour obtenir l'indépendance (livre, e-commerce, blog, applis, affliation, trading, musique, arts, etc). Travailler 30mn par jour est suffisant au début, il faut juste commencer là maintenant, fais tes recherches et c'est partit. Si tu penses pas avoir le temps, liste tes activités de la journée et supprime les trucs à la con du style (regarder une série télé, branlette sous la douche, IntaFesses, etc).
+
+Voici le planning à adapter en fonction de ton statut et viens pas dire que c'est impossible car sinon je vais sonner à ta porte et te coller 2 baffes ! fdp
 
     5:30 - 7:00 Tu te lèves, tu suis des cours pour devenir moins con
     7:00 - 7:30 Tu te relaxes, tu fais un tour

@@ -1,8 +1,8 @@
 ---
-title: 'Comment devenir un go muscu'
-date: '10 Juillet 2021'
-excerpt: "Toi aussi t'as un corps de lâche du genre à crever en 1er dans les films d'horreur, j'ai la solution"
-cover_image: '/images/posts/risi-muscu.jpeg'
+title: "Comment devenir un go muscu"
+date: "10 Juillet 2021"
+excerpt: "Toi aussi t'as un corps de lâche du genre à crever en 1er dans les films d'horreur ? j'ai la solution"
+cover_image: "/images/posts/risi-muscu.jpeg"
 ---
 
 Pour commencer, va suivre ce gars **[Efkan Kurnaz](http://necloqui.com/fuit.html)** ! Pour commencer en muscu si t'es un bouffon. Y'a pas mieux car lui même en était un.
